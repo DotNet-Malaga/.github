@@ -21,7 +21,7 @@ Consulta nuestros [repositorios de la organización](https://github.com/orgs/Dot
 
 ## Participa
 
-**Únete a Nuestros Eventos**: Asiste a nuestros encuentros y talleres regulares para aprender y conectar con otros desarrolladores. Mantente al día visitando nuestra [página de eventos]([https://dotnetmalaga.com/events](https://www.meetup.com/dotnetmalaga/)).
+**Únete a Nuestros Eventos**: Asiste a nuestros encuentros y talleres regulares para aprender y conectar con otros desarrolladores. Mantente al día visitando nuestra [página de eventos](https://www.meetup.com/dotnetmalaga/).
 
 
 ## Contáctanos
